@@ -2,10 +2,7 @@
 
 ## Overview
 
-This project implements a polished **Settings screen** using **Jetpack Compose with Material 3 components**.  
-The screen demonstrates proper layout structure, consistent spacing, and interactive UI elements while satisfying all assignment rubric requirements.
-
-The layout uses a main `Column` container with multiple `Card` sections, each containing structured setting rows. Interactive components include switches, checkboxes, sliders, buttons, and a Snackbar confirmation.
+This project implements a polished **Settings screen** using **Jetpack Compose with Material 3 components**. The screen demonstrates proper layout structure, consistent spacing, and interactive UI elements. The layout uses a main `Column` container with multiple `Card` sections, each containing structured setting rows. Interactive components include switches, checkboxes, sliders, buttons, and a Snackbar confirmation.
 
 ## Layout Structure
 
