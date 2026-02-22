@@ -231,7 +231,7 @@ fun SettingsScreen(
                                     // Material 3: Snackbar
                                 },
                                 modifier = Modifier
-                                    .heightIn(min = 40.dp) // ✅ heightIn requirement
+                                    .heightIn(min = 40.dp) // heightIn requirement
                                     .align(Alignment.CenterVertically)
                             ) {
                                 Text("Save")
