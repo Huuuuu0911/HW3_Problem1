@@ -71,4 +71,14 @@ Below are the required screenshots:
 
 
 ## AI Disclosure
+ChatGPT was used as a supplementary tool during the development of this project. Specifically, it was used to:
 
+- Clarify rubric requirements (Row/Column structure, `Modifier.weight`, required Material 3 components, etc.)
+- Offer suggestions for UI refinement and scroll handling
+- Assist in drafting portions of this README documentation
+
+However, the overall screen structure, layout implementation, state management, and the majority of the Compose code were written and organized independently by me. I designed the Row/Column nesting, modifier usage, and component grouping to ensure the implementation satisfies all assignment requirements.
+
+All code was reviewed, adjusted, and tested in Android Studio to confirm it compiles correctly and behaves as expected. Any AI-generated suggestions were modified as needed to match my design decisions and understanding of Jetpack Compose.
+
+AI was used as a learning and refinement tool, not as a replacement for independent development.
