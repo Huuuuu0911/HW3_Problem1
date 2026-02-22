@@ -49,19 +49,11 @@ These modifiers ensure consistent layout behavior, alignment, spacing, and respo
 
 ## 📸 Screenshots
 
-Below are the required screenshots:
+Below is the screenshot of the setting screen:
 
-1. **Full Settings Screen**
-   - Shows TopAppBar, Cards, and grouped settings.
+**Full Settings Screen**
+   ![Full Screen](screenshot.png)
 
-2. **Scroll Behavior**
-   - Demonstrates vertical scrolling and visibility of the Save button.
-
-3. **Snackbar Confirmation**
-   - Shows “Settings saved” after pressing the Save button.
-
-4. **Slider Interaction**
-   - Displays adjusted slider position.
 
 ## ▶ How to Run
 1. Open the project in Android Studio  
