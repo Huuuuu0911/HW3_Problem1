@@ -13,7 +13,7 @@ This project implements a polished **Settings screen** using **Jetpack Compose w
 - `Modifier.weight(1f)` is used to prevent truncation and keep controls aligned
 - The screen is vertically scrollable using `verticalScroll()`
 
-## 🎨 Material 3 Components Used
+## Material 3 Components Used
 
 The implementation includes the following Material 3 components:
 
@@ -47,7 +47,7 @@ The screen demonstrates correct usage of:
 
 These modifiers ensure consistent layout behavior, alignment, spacing, and responsiveness.
 
-## 📸 Screenshots
+## Screenshots
 
 Below is the screenshot of the setting screen:
 
@@ -55,7 +55,7 @@ Below is the screenshot of the setting screen:
    ![Full Screen](screenshot.png)
 
 
-## ▶ How to Run
+## How to Run
 1. Open the project in Android Studio  
 2. Ensure an emulator (API 34+) is available  
 3. Run `MainActivity`  
